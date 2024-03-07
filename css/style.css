@@ -1,0 +1,53 @@
+
+/* Resume Stylesheet */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 22px;
+    border-bottom: 2px solid #333;
+    padding-bottom: 6px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.contact-info, .education, .skills, .experience, .certifications {
+    margin-bottom: 20px;
+}
+
+/* Link styles */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
